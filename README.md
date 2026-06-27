@@ -57,7 +57,7 @@ sulakshan-compiler/
 | # | Milestone | Status |
 |---|---|---|
 | 0 | Language Design | ✅ Complete |
-| 1 | Formal Grammar (EBNF) | 🔄 In Progress |
+| 1 | Formal Grammar (EBNF) | ✅ Complete |
 | 2 | Lexer | ⏳ Pending |
 | 3 | Parser | ⏳ Pending |
 | 4 | AST Construction | ⏳ Pending |
