@@ -58,7 +58,7 @@ sulakshan-compiler/
 |---|---|---|
 | 0 | Language Design | ✅ Complete |
 | 1 | Formal Grammar (EBNF) | ✅ Complete |
-| 2 | Lexer | ⏳ Pending |
+| 2 | Lexer | ✅ Complete |
 | 3 | Parser | ⏳ Pending |
 | 4 | AST Construction | ⏳ Pending |
 | 5 | Semantic Analysis | ⏳ Pending |
