@@ -98,7 +98,7 @@ Operator precedence is not a runtime concept — it is encoded structurally in t
 
 ---
 
-## Milestone 2 — Lexer ⏳ Next
+## Milestone 2 — Lexer ✅ Complete
 
 ### Goal
 Implement the tokenizer that converts raw SCG source text into a stream of tokens.
@@ -111,7 +111,7 @@ Implement the tokenizer that converts raw SCG source text into a stream of token
 
 ---
 
-## Milestone 3 — Parser ⏳ Pending
+## Milestone 3 — Parser ✅ Complete
 
 ---
 
